@@ -3,6 +3,7 @@
 <%
 	String message_eng = "Hello JSP";
 	String message_kor = "5퇴근";
+	String message_ooh = "답정너 강사님덕분에 5조 퇴근은 무리... 메모장인줄 알았는데..";
 	System.out.println(message_eng + "/" + message_kor);
 %>
 <!doctype html>
