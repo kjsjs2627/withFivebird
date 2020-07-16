@@ -5,6 +5,7 @@
 	String message_kor = "5조 지금 퇴근합니다!";
 	String message = "범인을 찾습니다.";
 	System.out.println(message_eng + "/" + message_kor);
+	String messageR = "777";
 %>
 <!doctype html>
 <html>
