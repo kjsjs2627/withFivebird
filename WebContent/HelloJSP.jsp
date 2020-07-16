@@ -2,7 +2,7 @@
 <%@ page trimDirectiveWhitespaces="true" %>
 <%
 	String message_eng = "Hello JSP";
-	String message_kor = "5조 테스트 연습";
+	String message_kor = "5퇴근";
 	System.out.println(message_eng + "/" + message_kor);
 %>
 <!doctype html>
