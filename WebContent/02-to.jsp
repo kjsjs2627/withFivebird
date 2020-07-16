@@ -7,7 +7,7 @@
 	// 파라미터 받기
 	String ans = request.getParameter("ans");
 	
-	// 화면에 ㅜㄹ력할 결과 문자열
+	// 화면에 출력할 결과 문자열
 	String result = null;
 	
 	if (ans == null) {
@@ -47,5 +47,6 @@
 		</div>
 	</div>
 
+<div>집에 가고 싶어요..8시에 문 열어 두겠숩니다..</div>
 </body>
 </html>
