@@ -43,6 +43,7 @@
 		<div class='page-header'><h1>응답결과</h1></div>
 		<div>
 			<p><%=result%>
+			x안now이제
 		</div>
 	</div>
 
