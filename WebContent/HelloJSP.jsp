@@ -6,6 +6,7 @@
 	String message = "범인을 찾습니다.";
 	System.out.println(message_eng + "/" + message_kor);
 	String messageR = "777";
+	
 %>
 <!doctype html>
 <html>
@@ -21,6 +22,8 @@
 <body>
 	<div class="container">
 		<h1><% out.println(message_eng); %></h1>
+		<h1><% out.println(message); %></h1>
+		
 		<h2><%=message_kor %></h2>
 	</div>
 </body>
